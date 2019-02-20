@@ -5,9 +5,9 @@ header:
     image: "/assets/images/about.jpeg"
 ---
 
-You can find my CV [here](https://drive.google.com/open?id=1EV_B3eSez4reMRPMbJQP2BfxeZ2TONY6).
+You can find my CV [here](https://fdfas).
 
-**Email:** kiranchhatre3[at]gmail[dot]com; kiran[dot]chhatre[at]rwth[hyphen]aachen[dot]de
+**Email:** romeo[dot]orsolino[at]iit[dot]it
 
 **Phone:** +49 1590 1349350
 
