@@ -102,12 +102,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michele Focchi"
-  avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Romeo Orsolino"
+  avatar           : /assets/images/Orsolino_Romeo_IHMC_cropped.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Genova, Italy"
-  github           : "mfocchi"
-  linkedin         : "michele-focchi-4149115/"
+  github           : "https://github.com/orsoromeo"
+  linkedin         : "https://www.linkedin.com/in/romeo-orsolino-0097b78a/"
   YouTube          : "https://www.youtube.com/channel/UC45i3BaTxTpDWPLY2UhpolA"
 
 # Site Footer
