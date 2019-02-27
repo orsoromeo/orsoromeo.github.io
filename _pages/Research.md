@@ -13,34 +13,34 @@ mathjax: "true"
 
 >   **TensorFlow implementation to decipher sign language**
 
--   [Repository](https://github.com/orsoromeo/Tensorflow-decipher_sign_language)
+-   [Repository](https://github.com/kiranchhatre/Tensorflow-decipher_sign_language)
 
 ![tfsign](/assets/images/tfsign.png)
 
 
 >   **Navier-Stokes Equations using Python**
 
--   [Repository](https://github.com/orsoromeo/Navier_Stokes_Equations)
+-   [Repository](https://github.com/kiranchhatre/Navier_Stokes_Equations)
 
 ![ns](/assets/images/ns.png)
 
 >   **Optimization: Mini batch gradient descent with momentum and Adam mode**
 
--   [Repository](https://github.com/orsoromeo/Optimization_algorithms/blob/master/Optimization%20algorithms.ipynb)
+-   [Repository](https://github.com/kiranchhatre/Optimization_algorithms/blob/master/Optimization%20algorithms.ipynb)
 
 >   **Word2Vec using TensorFlow using dummy data**
 
--   [Repository](https://github.com/orsoromeo/Word2vec)
+-   [Repository](https://github.com/kiranchhatre/Word2vec)
 
 ![w2v](/assets/images/w2v.png)
 
 >   **He et al (2015) Initialization for Neural Networks**
 
--   [Repository](https://github.com/orsoromeo/Initialization_techniques/blob/master/Initialization%20techniques.ipynb)
+-   [Repository](https://github.com/kiranchhatre/Initialization_techniques/blob/master/Initialization%20techniques.ipynb)
 
 >   **Gradient Checking Algorithm**
 
--   [Repository](https://github.com/orsoromeo/Gradient_Checking_Algorithm/blob/master/Gradient%20Checking%20Algorithm.ipynb)
+-   [Repository](https://github.com/kiranchhatre/Gradient_Checking_Algorithm/blob/master/Gradient%20Checking%20Algorithm.ipynb)
 
 >   **Poppy Humanoid Robot**
 
@@ -55,19 +55,19 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 >   **Football Corporation Goalkeeper Position Recommendation**
 
--   [Repository](https://github.com/orsoromeo/French-Football-Corporation-Goalkeeper-Position-Recommendation-/blob/master/French%20Football%20Corporation%20Goalkeeper%20Position%20Recommendation%20.ipynb)
+-   [Repository](https://github.com/kiranchhatre/French-Football-Corporation-Goalkeeper-Position-Recommendation-/blob/master/French%20Football%20Corporation%20Goalkeeper%20Position%20Recommendation%20.ipynb)
 
 >   **ABB IRB 7600-340 Robot visualization in VR and 3D mode using JavaScript** (Ongoing)
 
 
 >   **Logistic regression to recognize cats**
 
--   [Repository](https://github.com/orsoromeo/Logistic_Regression)
+-   [Repository](https://github.com/kiranchhatre/Logistic_Regression)
 
 >   **Softmax Linear Classifier using 2 NN for visual recognition**
 
 -   Cross Entropy Loss Function
--   [Repository](https://github.com/orsoromeo/Convolutional_Neural_Network_Visual_Recognition)
+-   [Repository](https://github.com/kiranchhatre/Convolutional_Neural_Network_Visual_Recognition)
 
 ![Vision](/assets/images/Vision.png)
 
@@ -75,7 +75,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 -   Recommendation System: Collaborative and Content-based; NumPy,SciPy, LightFM, OpenMP, Weighted Approximate-Rank Pairwise,
     Gradient Descent, Compressed Sparse Row Format; MovieLens: GroupLens Research Site (University of Minnesota)
--   [Repository](https://github.com/orsoromeo/lightfm_recommendation_algorithm)
+-   [Repository](https://github.com/kiranchhatre/lightfm_recommendation_algorithm)
 -   [https://movielens.org/](https://movielens.org/)
 
 
@@ -110,11 +110,11 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 >   **Supervised learning with 5 layer deep neural network using ReLU for image classification.**
 
--   [Repository](https://github.com/orsoromeo/L_layer_deep_neural_network)
+-   [Repository](https://github.com/kiranchhatre/L_layer_deep_neural_network)
 
 >   **Planar data classification**
 
--   [Repository](https://github.com/orsoromeo/Planar_data_classification/blob/master/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+-   [Repository](https://github.com/kiranchhatre/Planar_data_classification/blob/master/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
 
 ![pdc](/assets/images/pdc.png)
 

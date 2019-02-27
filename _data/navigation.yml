@@ -1,15 +1,9 @@
 # main links
 main:
-   #- title: "About"
-    # url: /about/
-   - title: "Industry"
-     url: /Industry/
-   - title: "Projects"
-     url: /Research/
-   - title: "Education"
-     url: /Education/
-   - title: "Achievements"
-     url: /Achievements/
+   - title: "About"
+     url: /about/
+   #- title: "Research"
+   #  url: /Research/
    - title: "CV"
      url: /CV/
 

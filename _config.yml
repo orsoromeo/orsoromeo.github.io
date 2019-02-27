@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 github: [metadata]
 # Site Settings
 locale                   : "en-US"
-title                    : "Romeo Orsolino"
+title                    : "Michele Focchi"
 title_separator          : "-"
-name                     : "Romeo Orsolino"
+name                     : "Michele Focchi"
 description              : "Data Science Portfolio"
-url                      : "https://orsoromeo.github.io/"
+url                      : "https://mfocchi.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : orsoromeo/orsoromeo.github.io
+repository               : mfocchi/mfocchi.github.io
 teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,9 +79,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "RomeoOrsolino"
+  username               : "mfocchi			"
 facebook:
-  username               : "romeo.orsolino"
+  username               : "michele.focchi"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -102,21 +102,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Romeo Orsolino"
+  name             : "Michele Focchi"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi there. I am an aspiring Data Scientist exercising passionately in the field of Deep Learning, Exploratory Analysis, and Data Visualizations."
-  location         : "Aachen, Germany"
-  github           : "orsoromeo"
-  linkedin         : "romeo/"
-  YouTube          : "https://www.youtube.com/channel/UCl-eVYv0TSICZPVeohpgoLw/"
-  Twitter          : "https://twitter.com/RomeoOrsolino"
+  bio              : ""
+  location         : "Genova, Italy"
+  github           : "mfocchi"
+  linkedin         : "michele-focchi-4149115/"
+  YouTube          : "https://www.youtube.com/channel/UC45i3BaTxTpDWPLY2UhpolA"
+
 # Site Footer
 footer:
 
-  linkedin          : "https://www.linkedin.com/in/romeo/"
-  github            : "https://github.com/orsoromeo"
-  YouTube           : "https://www.youtube.com/channel/UCl-eVYv0TSICZPVeohpgoLw"
-  Twitter           : "https://twitter.com/RomeoOrsolino"
+  linkedin          : "michele-focchi-4149115/"
+  github            : "https://github.com/mfocchi"
+  YouTube           : "https://www.youtube.com/channel/UC45i3BaTxTpDWPLY2UhpolA"
+
 
 # Reading Files
 include:
