@@ -7,7 +7,7 @@ header:
 
 You can find my CV [here](https://www.dropbox.com/s/13suf5emc4nqknc/cv_last.pdf).
 
-**Email: michele.focchi@iit.it**
+**Email: romeo.orsolino@iit.it**
 
 **Phone:** +39 01071781974
 
