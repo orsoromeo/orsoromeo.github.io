@@ -5,7 +5,7 @@ header:
 
 ---
 
-You can find my CV [here](https://www.dropbox.com/s/13suf5emc4nqknc/cv_last.pdf).
+You can find my CV [here](https://github.com/orsoromeo/orsoromeo.github.io/assets/pdfs/CV_romeo_orsolino.pdf).
 
 **Email: romeo.orsolino@iit.it**
 
