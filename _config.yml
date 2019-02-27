@@ -106,8 +106,8 @@ author:
   avatar           : /assets/images/Orsolino_Romeo_IHMC_cropped.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Genova, Italy"
-  github           : "https://github.com/orsoromeo"
-  linkedin         : "https://www.linkedin.com/in/romeo-orsolino-0097b78a/"
+  github           : "orsoromeo"
+  linkedin         : "romeo-orsolino-0097b78a/"
   YouTube          : "https://www.youtube.com/channel/UC45i3BaTxTpDWPLY2UhpolA"
 
 # Site Footer
