@@ -7,8 +7,8 @@ classes: wide
 mathjax: "true"
 ---
 
->   **Application of Wrench-Based Feasibility Analysis to the Online Trajectory Optimization of Legged Robots**
-R. Orsolino
+>   **This page is under construction**
+
 
 
 
