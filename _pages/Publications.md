@@ -9,7 +9,7 @@ mathjax: "true"
 
 ## Journal Papers
 
->  R. Orsolino, M. Focchi S. Caron, G. Raiola, V. Barasuol and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://arxiv.org/abs/1903.07999),
+>  R. Orsolino, M. Focchi, S. Caron, G. Raiola, V. Barasuol and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://arxiv.org/abs/1903.07999),
 : Transactions on Robotics (TRO), 2020
 
 >  M. Focchi, R. Orsolino, M. Camurri, V. Barasuol, C. Mastalli, D.G. Caldwell and C. Semini, [Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality](https://arxiv.org/abs/1805.10238),
@@ -23,8 +23,15 @@ mathjax: "true"
 >  A. Bratta, R. Orsolino, M. Focchi, V. Barasuol, G. G. Muscolo and C. Semini, [On the Hardware Feasibility of Nonlinear Trajectory Optimization for Legged Locomotion based on a Simplified Dynamics](https://arxiv.org/abs/1910.06855),
 : ArXiv preprint, 2020
 
+>  S. Xin, R. Orsolino and N. Tsagarakis, [Online Relative Footstep Optimization for Legged Robots Dynamic Walking Using Discrete-Time Model Predictive Control](https://ieeexplore.ieee.org/document/8968028),
+: International Conference on Intelligent Robots and Systems (IROS), 2019
+
 >  R. Orsolino, M. Focchi, D.G. Caldwell and C. Semini, [A Combined Limit Cycle - Zero Moment Point Based Approach for Omni-Directional Quadrupedal Bounding](https://iit-dlslab.github.io/papers/orsolino17clawar.pdf),
 : International Conference on Climbing and Walking Robots (CLAWAR), 2017
 
->  G. Tournois,, M. Focchi, A. Del Prete, R. Orsolino, D.G. Caldwell and C. Semini, [A Combined Limit Cycle - Zero Moment Point Based Approach for Omni-Directional Quadrupedal Bounding](https://hal.archives-ouvertes.fr/hal-01575033/document),
+>  G. Tournois, M. Focchi, A. Del Prete, R. Orsolino, D.G. Caldwell and C. Semini, [Online Payload Identification for Quadruped Robots](https://hal.archives-ouvertes.fr/hal-01575033/document),
 : International Conference on Intelligent Robots and Systems (IROS), 2017
+
+>  M. Focchi, R. Featherstone, R. Orsolino, D.G. Caldwell and C. Semini, [Viscosity-based Height Reflex for Workspace Augmentation for Quadrupedal Locomotion on Rough Terrain](https://iit-dlslab.github.io/papers/focchi17iros.pdf),
+: International Conference on Intelligent Robots and Systems (IROS), 2017
+
