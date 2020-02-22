@@ -9,8 +9,8 @@ mathjax: "true"
 
 ## Journal Papers
 
->  R. Orsolino, M. Focchi S. Caron, G. Raiola, V. Barasuol, D.G. Caldwell and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://arxiv.org/abs/1903.07999),
-: ArXiv preprint, 2020
+>  R. Orsolino, M. Focchi S. Caron, G. Raiola, V. Barasuol and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://arxiv.org/abs/1903.07999),
+: Transactions on Robotics (TRO), 2020
 
 >  M. Focchi, R. Orsolino, M. Camurri, V. Barasuol, C. Mastalli, D.G. Caldwell and C. Semini, [Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality](https://arxiv.org/abs/1805.10238),
 : Springer Tracts on Advanced Robotics (STAR), 2019
