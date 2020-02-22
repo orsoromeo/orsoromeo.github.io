@@ -21,7 +21,7 @@ mathjax: "true"
 ## Conference Papers
 
 >  A. Bratta, R. Orsolino, M. Focchi, V. Barasuol, G. G. Muscolo and C. Semini, [On the Hardware Feasibility of Nonlinear Trajectory Optimization for Legged Locomotion based on a Simplified Dynamics](https://arxiv.org/abs/1910.06855),
-: ArXiv preprint, 2020
+: International Conference on Robotics and Automation (ICRA), 2020
 
 >  S. Xin, R. Orsolino and N. Tsagarakis, [Online Relative Footstep Optimization for Legged Robots Dynamic Walking Using Discrete-Time Model Predictive Control](https://ieeexplore.ieee.org/document/8968028),
 : International Conference on Intelligent Robots and Systems (IROS), 2019
