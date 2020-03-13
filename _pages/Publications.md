@@ -7,6 +7,11 @@ classes: wide
 mathjax: "true"
 ---
 
+## PhD dissertation
+
+>  [Actuation Aware Simplified Dynamic Models for Robotic Legged Locomotion](https://arxiv.org/abs/1903.07999),
+: R. Orsolino 2020
+
 ## Journal Papers
 
 >  R. Orsolino, M. Focchi, S. Caron, G. Raiola, V. Barasuol and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://arxiv.org/abs/1903.07999),
