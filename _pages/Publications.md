@@ -9,7 +9,7 @@ mathjax: "true"
 
 ## PhD dissertation
 
->  [Actuation Aware Simplified Dynamic Models for Robotic Legged Locomotion](https://arxiv.org/abs/1903.07999),
+>  [Actuation Aware Simplified Dynamic Models for Robotic Legged Locomotion](https://github.com/orsoromeo/orsoromeo.github.io/blob/master/assets/pdfs/PhdThesisOrsolino.pdf),
 : R. Orsolino 2020
 
 ## Journal Papers
