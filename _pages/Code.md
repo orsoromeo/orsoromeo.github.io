@@ -13,6 +13,6 @@ mathjax: "true"
 
 ## Locomotion-Viewer
 
->  a Rviz tool for visualizing locomotion-related geometric objects: [https://github.com/iit-DLSLab/locomotion-viewer/](https://github.com/iit-DLSLab/locomotion-viewer)
+>  a Rviz tool for visualizing locomotion-related geometric objects such as waypoint markers, trajectories, 2D support regions and 3D feasibility constraints: [https://github.com/iit-DLSLab/locomotion-viewer/](https://github.com/iit-DLSLab/locomotion-viewer)
 
 
