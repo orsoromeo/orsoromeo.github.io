@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Homepage of Romeo Orsolino"
+  name             : "Romeo Orsolino"
   avatar           : /assets/images/Orsolino_Romeo_IHMC_cropped.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Oxford, UK"
