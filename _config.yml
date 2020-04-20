@@ -19,7 +19,7 @@ github: [metadata]
 locale                   : "en-US"
 title                    : "Homepage of Romeo Orsolino"
 title_separator          : "-"
-name                     : "Romeo Orsolino"
+name                     : "Homepage of Romeo Orsolino"
 description              : "Data Science Portfolio"
 url                      : "https://orsoromeo.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Romeo Orsolino"
+  name             : "Homepage of Romeo Orsolino"
   avatar           : /assets/images/Orsolino_Romeo_IHMC_cropped.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Oxford, UK"
