@@ -7,36 +7,12 @@ classes: wide
 mathjax: "true"
 ---
 
-## PhD dissertation
+## Jet-Leg
 
->  [Actuation Aware Simplified Dynamic Models for Robotic Legged Locomotion](https://github.com/orsoromeo/orsoromeo.github.io/blob/master/assets/pdfs/PhdThesisOrsolino.pdf),
-: R. Orsolino 2020
+>  This is an open-source python package that shows how to compute the feasible region, i.e. the extension of the well known support region to include joint-torque limits constraints of legged robots: [https://github.com/orsoromeo/jet-leg](https://github.com/orsoromeo/jet-leg)
 
-## Journal Papers
+## Locomotion-Viewer
 
->  R. Orsolino, M. Focchi, S. Caron, G. Raiola, V. Barasuol and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://arxiv.org/abs/1903.07999),
-: Transactions on Robotics (TRO), 2020
+>  a Rviz tool for visualizing locomotion-related geometric objects: [https://github.com/iit-DLSLab/locomotion-viewer/](https://github.com/iit-DLSLab/locomotion-viewer)
 
->  M. Focchi, R. Orsolino, M. Camurri, V. Barasuol, C. Mastalli, D.G. Caldwell and C. Semini, [Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality](https://arxiv.org/abs/1805.10238),
-: Springer Tracts on Advanced Robotics (STAR), 2019
-
->  R. Orsolino, M. Focchi, C. Mastalli, H. Dai, D.G. Caldwell and C. Semini, [Application of Wrench-Based Feasibility Analysis to the Online Trajectory Optimization of Legged Robots](https://iit-dlslab.github.io/papers/orsolino18ral.pdf),
-: IEEE Robotics and Automation Letters (RA-L), 2018
-
-## Conference Papers
-
->  A. Bratta, R. Orsolino, M. Focchi, V. Barasuol, G. G. Muscolo and C. Semini, [On the Hardware Feasibility of Nonlinear Trajectory Optimization for Legged Locomotion based on a Simplified Dynamics](https://arxiv.org/abs/1910.06855),
-: International Conference on Robotics and Automation (ICRA), 2020
-
->  S. Xin, R. Orsolino and N. Tsagarakis, [Online Relative Footstep Optimization for Legged Robots Dynamic Walking Using Discrete-Time Model Predictive Control](https://ieeexplore.ieee.org/document/8968028),
-: International Conference on Intelligent Robots and Systems (IROS), 2019
-
->  R. Orsolino, M. Focchi, D.G. Caldwell and C. Semini, [A Combined Limit Cycle - Zero Moment Point Based Approach for Omni-Directional Quadrupedal Bounding](https://iit-dlslab.github.io/papers/orsolino17clawar.pdf),
-: International Conference on Climbing and Walking Robots (CLAWAR), 2017
-
->  G. Tournois, M. Focchi, A. Del Prete, R. Orsolino, D.G. Caldwell and C. Semini, [Online Payload Identification for Quadruped Robots](https://hal.archives-ouvertes.fr/hal-01575033/document),
-: International Conference on Intelligent Robots and Systems (IROS), 2017
-
->  M. Focchi, R. Featherstone, R. Orsolino, D.G. Caldwell and C. Semini, [Viscosity-based Height Reflex for Workspace Augmentation for Quadrupedal Locomotion on Rough Terrain](https://iit-dlslab.github.io/papers/focchi17iros.pdf),
-: International Conference on Intelligent Robots and Systems (IROS), 2017
 
