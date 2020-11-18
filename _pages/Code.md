@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Code"
 permalink: /Code/
 tags: [robotics, legged locomotion, numerical optimization, optimal control, computer graphics]
 header:

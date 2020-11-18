@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Research topics"
 permalink: /Research/
 tags: [robotics, legged locomotion, numerical optimization, optimal control]
 header:

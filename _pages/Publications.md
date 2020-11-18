@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Publications"
 permalink: /Publications/
 tags: [robotics, legged locomotion, numerical optimization, optimal control]
 header:
