@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /Code/
-tags: [robotics, legged locomotion, numerical optimization, optimal control]
+tags: [robotics, legged locomotion, numerical optimization, optimal control, computer graphics]
 header:
 classes: wide
 mathjax: "true"

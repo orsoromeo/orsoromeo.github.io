@@ -40,3 +40,16 @@ mathjax: "true"
 >  M. Focchi, R. Featherstone, R. Orsolino, D.G. Caldwell and C. Semini, [Viscosity-based Height Reflex for Workspace Augmentation for Quadrupedal Locomotion on Rough Terrain](https://iit-dlslab.github.io/papers/focchi17iros.pdf),
 : International Conference on Intelligent Robots and Systems (IROS), 2017
 
+## Abstracts
+
+>  A. Abdalla, M. Focchi, R. Orsolino and C. Semini, The Reachable Region: a Fast Kinematic Feasibility Criterion for Legged Locomotion, 
+: Istituto di Robotica e Macchine Intelligenti (I-RIM), 2020
+
+>  C. Semini, V. Barasuol, M. Focchi, C. Boelens, M. Emara, S. Casella, O. Villarreal, R. Orsolino, G. Fink, S. Fahmi, G. Medrano-Cerda and D.G. Caldwell, [Brief introduction to the quadruped robot hyqreal](https://iit-dlslab.github.io/papers/irim19semini_final.pdf), 
+: Istituto di Robotica e Macchine Intelligenti (I-RIM), 2019
+
+>  R. Orsolino, M. Focchi, D.G. Caldwell and C. Semini, [Turning Maneuvers Strategy for Quadrupedal Bounding Gait](http://ruina.tam.cornell.edu/dynwalk17abstracts/300-romeo%20orsolino%20-%20.pdf), 
+: Dynamic Walking, 2017
+
+>  R. Orsolino, M. Focchi, D.G. Caldwell and C. Semini, [An asymmetric model for quadrupedal bounding in place](https://www.academia.edu/download/49430672/Romeo_Orsolino_hfr16.pdf), 
+: Human Friendly Robotics (HFR), 2016
