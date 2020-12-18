@@ -12,9 +12,20 @@ mathjax: "true"
 >  R. Orsolino, [Actuation Aware Simplified Dynamic Models for Robotic Legged Locomotion](https://github.com/orsoromeo/orsoromeo.github.io/blob/master/assets/pdfs/PhdThesisOrsolino.pdf),
 : PhD dissertation, Istituto Italiano di Tecnologia (IIT), Genova, Italy, 2019
 
+## Under Review
+
+>  A. Abdalla, M. Focchi, R. Orsolino and C. Semini, [An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion](https://arxiv.org/pdf/2011.07967.pdf),
+arXiv, 2020
+
+>  S. Gangapurwala, M. Geisert, R. Orsolino, I. Havoutis and M. Fallon, [RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control](https://arxiv.org/abs/2012.03094),
+arXiv, 2020
+
 ## Journal Papers
 
->  R. Orsolino, M. Focchi, S. Caron, G. Raiola, V. Barasuol and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://arxiv.org/abs/1903.07999),
+>  J. M. Driessen and R. Orsolino, [Improving Robustness of Legged Robots against Mechanical Shock Using Impulsive Dynamics](https://www.frontiersin.org/articles/10.3389/fmech.2020.601922/abstract),
+: Frontiers in Mechanical Engineering, 2020
+
+>  R. Orsolino, M. Focchi, S. Caron, G. Raiola, V. Barasuol and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://ieeexplore.ieee.org/document/9116813),
 : Transactions on Robotics (TRO), 2020
 
 >  M. Focchi, R. Orsolino, M. Camurri, V. Barasuol, C. Mastalli, D.G. Caldwell and C. Semini, [Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality](https://arxiv.org/abs/1805.10238),
