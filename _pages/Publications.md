@@ -17,16 +17,17 @@ mathjax: "true"
 >  A. Abdalla, M. Focchi, R. Orsolino and C. Semini, [An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion](https://arxiv.org/pdf/2011.07967.pdf),
 arXiv, 2020
 
->  S. Gangapurwala, M. Geisert, R. Orsolino, I. Havoutis and M. Fallon, [RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control](https://arxiv.org/abs/2012.03094),
-arXiv, 2020
 
 ## Journal Papers
+
+>  S. Gangapurwala, M. Geisert, R. Orsolino, I. Havoutis and M. Fallon, [RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control](https://arxiv.org/abs/2012.03094),
+IEEE Transactions on Robotics (TRO), 2022
 
 >  J. M. Driessen and R. Orsolino, [Improving Robustness of Legged Robots against Mechanical Shock Using Impulsive Dynamics](https://www.frontiersin.org/articles/10.3389/fmech.2020.601922/abstract),
 : Frontiers in Mechanical Engineering, 2020
 
 >  R. Orsolino, M. Focchi, S. Caron, G. Raiola, V. Barasuol and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://ieeexplore.ieee.org/document/9116813),
-: Transactions on Robotics (TRO), 2020
+: IEEE Transactions on Robotics (TRO), 2020
 
 >  M. Focchi, R. Orsolino, M. Camurri, V. Barasuol, C. Mastalli, D.G. Caldwell and C. Semini, [Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality](https://arxiv.org/abs/1805.10238),
 : Springer Tracts on Advanced Robotics (STAR), 2019
@@ -36,20 +37,23 @@ arXiv, 2020
 
 ## Conference Papers
 
+>  R. Orsolino, O. Melon, S. Gangapurwala, M. Geisert, I. Havoutis and M. Fallon, [Rapid stability margin estimation for contact-rich locomotion](https://ora.ox.ac.uk/objects/uuid:c70fd912-db6c-445b-ba45-9674415bcaea/download_file?safe_filename=Orsolino_et_al_2021_rapid_stability_margin.pdf&file_format=pdf&type_of_work=Conference+item),
+: IEEE International Conference on Intelligent Robots and Systems (IROS), 2021
+
 >  A. Bratta, R. Orsolino, M. Focchi, V. Barasuol, G. G. Muscolo and C. Semini, [On the Hardware Feasibility of Nonlinear Trajectory Optimization for Legged Locomotion based on a Simplified Dynamics](https://arxiv.org/abs/1910.06855),
-: International Conference on Robotics and Automation (ICRA), 2020
+: IEEE International Conference on Robotics and Automation (ICRA), 2020
 
 >  S. Xin, R. Orsolino and N. Tsagarakis, [Online Relative Footstep Optimization for Legged Robots Dynamic Walking Using Discrete-Time Model Predictive Control](https://ieeexplore.ieee.org/document/8968028),
-: International Conference on Intelligent Robots and Systems (IROS), 2019
+: IEEE International Conference on Intelligent Robots and Systems (IROS), 2019
 
 >  R. Orsolino, M. Focchi, D.G. Caldwell and C. Semini, [A Combined Limit Cycle - Zero Moment Point Based Approach for Omni-Directional Quadrupedal Bounding](https://iit-dlslab.github.io/papers/orsolino17clawar.pdf),
-: International Conference on Climbing and Walking Robots (CLAWAR), 2017
+: IEEE International Conference on Climbing and Walking Robots (CLAWAR), 2017
 
 >  G. Tournois, M. Focchi, A. Del Prete, R. Orsolino, D.G. Caldwell and C. Semini, [Online Payload Identification for Quadruped Robots](https://hal.archives-ouvertes.fr/hal-01575033/document),
-: International Conference on Intelligent Robots and Systems (IROS), 2017
+: IEEE International Conference on Intelligent Robots and Systems (IROS), 2017
 
 >  M. Focchi, R. Featherstone, R. Orsolino, D.G. Caldwell and C. Semini, [Viscosity-based Height Reflex for Workspace Augmentation for Quadrupedal Locomotion on Rough Terrain](https://iit-dlslab.github.io/papers/focchi17iros.pdf),
-: International Conference on Intelligent Robots and Systems (IROS), 2017
+: IEEE International Conference on Intelligent Robots and Systems (IROS), 2017
 
 ## Abstracts
 
