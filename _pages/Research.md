@@ -7,9 +7,12 @@ classes: wide
 mathjax: "true"
 ---
 
-## Perceptive and receding-horizon motion planning
+## Real-time perceptive and receding-horizon motion planning
 
 Related publications: 
+
+>  O. Melon, R. Orsolino, D. Surovik, M. Geisert, I. Havoutis and M. Fallon, [Receding-horizon perceptive trajectory optimization for dynamic legged locomotion with learned initialization](https://arxiv.org/pdf/2104.09078.pdf),
+: IEEE International Conference on Robotics and Automation (ICRA), 2021
 
 >  M. Focchi, R. Orsolino, M. Camurri, V. Barasuol, C. Mastalli, D.G. Caldwell and C. Semini, [Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality](https://arxiv.org/abs/1805.10238),
 : Springer Tracts on Advanced Robotics (STAR), 2019

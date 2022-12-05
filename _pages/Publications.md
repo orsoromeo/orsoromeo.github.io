@@ -40,6 +40,9 @@ arXiv, 2020
 >  R. Orsolino, O. Melon, S. Gangapurwala, M. Geisert, I. Havoutis and M. Fallon, [Rapid stability margin estimation for contact-rich locomotion](https://ora.ox.ac.uk/objects/uuid:c70fd912-db6c-445b-ba45-9674415bcaea/download_file?safe_filename=Orsolino_et_al_2021_rapid_stability_margin.pdf&file_format=pdf&type_of_work=Conference+item),
 : IEEE International Conference on Intelligent Robots and Systems (IROS), 2021
 
+>  O. Melon, R. Orsolino, D. Surovik, M. Geisert, I. Havoutis and M. Fallon, [Receding-horizon perceptive trajectory optimization for dynamic legged locomotion with learned initialization](https://arxiv.org/pdf/2104.09078.pdf),
+: IEEE International Conference on Robotics and Automation (ICRA), 2021
+
 >  A. Bratta, R. Orsolino, M. Focchi, V. Barasuol, G. G. Muscolo and C. Semini, [On the Hardware Feasibility of Nonlinear Trajectory Optimization for Legged Locomotion based on a Simplified Dynamics](https://arxiv.org/abs/1910.06855),
 : IEEE International Conference on Robotics and Automation (ICRA), 2020
 
