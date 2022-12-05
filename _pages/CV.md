@@ -5,11 +5,9 @@ header:
 
 ---
 
-You can find my CV [here](https://orsoromeo.github.io/assets/pdfs/CV_romeo_orsolino.pdf).
+You can find my CV [here](https://orsoromeo.github.io/assets/pdfs/CV_romeo_orsolino_v2.pdf).
 
-**If you want to get in touch with me: rorsolino@robots.ox.ac.uk**
-
-**Address: 23 Banbury Rd, Oxford OX2 6NN**
+**If you want to get in touch with me: orso.romeo@gmail.com**
 
 
 
