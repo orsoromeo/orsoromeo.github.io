@@ -22,6 +22,7 @@ arXiv, 2020
 
 >  S. Gangapurwala, M. Geisert, R. Orsolino, I. Havoutis and M. Fallon, [RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control](https://arxiv.org/abs/2012.03094),
 : IEEE Transactions on Robotics (TRO), 2022
+: [Video](https://www.youtube.com/watch?v=GTI-0gl6Hg0&ab_channel=OxfordDynamicRobotSystemsGroup)
 
 >  J. M. Driessen and R. Orsolino, [Improving Robustness of Legged Robots against Mechanical Shock Using Impulsive Dynamics](https://www.frontiersin.org/articles/10.3389/fmech.2020.601922/abstract),
 : Frontiers in Mechanical Engineering, 2020
