@@ -13,7 +13,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 -  ***RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control***: S. Gangapurwala, M. Geisert, R. Orsolino, I. Havoutis and M. Fallon, TRO, 2022<br/>
 <a href="https://www.youtube.com/watch?v=GTI-0gl6Hg0
-" target="_blank"><img src="https://i.ytimg.com/vi/GTI-0gl6Hg0/maxresdefault.jpg"
+" target="_blank"><img src="https://i.ytimg.com/vi/rIr0tyqTjGw/maxresdefault.jpg"
 alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 -  ***Receding-horizon perceptive trajectory optimization for dynamic legged locomotion with learned initialization***: O. Melon, R. Orsolino, D. Surovik, M. Geisert, I. Havoutis and M. Fallon, ICRA, 2022<br/>
