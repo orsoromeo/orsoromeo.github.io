@@ -17,6 +17,10 @@ mathjax: "true"
 : IEEE Transactions on Robotics (TRO), 2022
 : [Video](https://www.youtube.com/watch?v=GTI-0gl6Hg0&ab_channel=OxfordDynamicRobotSystemsGroup)
 
+>  S. Gangapurwala, M. Geisert, R. Orsolino, I. Havoutis and M. Fallon, [Real-time trajectory adaptation for quadrupedal locomotion using deep reinforcement learning](https://www.robots.ox.ac.uk/~mobile/drs/Papers/2021ICRA_gangapurwala.pdf),
+: IEEE  IEEE International Conference on Robotics and Automation (ICRA), 2021
+: [Video](https://www.youtube.com/watch?v=GieUI6WLv7U&ab_channel=OxfordDynamicRobotSystemsGroup)
+
 ## Real-time perceptive and receding-horizon motion planning
 
 Related publications: 
