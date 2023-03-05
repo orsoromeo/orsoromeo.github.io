@@ -46,6 +46,10 @@ arXiv, 2020
 : IEEE International Conference on Robotics and Automation (ICRA), 2021
 : [Presentation video (long)](https://www.youtube.com/watch?v=bfc_TOU3AeA), [Short video](https://www.youtube.com/watch?v=Qqs5hhp3hHQ)
 
+>  S. Gangapurwala, M. Geisert, R. Orsolino, I. Havoutis and M. Fallon, [Real-time trajectory adaptation for quadrupedal locomotion using deep reinforcement learning](https://www.robots.ox.ac.uk/~mobile/drs/Papers/2021ICRA_gangapurwala.pdf),
+: IEEE  IEEE International Conference on Robotics and Automation (ICRA), 2021
+: [Video](https://www.youtube.com/watch?v=GieUI6WLv7U&ab_channel=OxfordDynamicRobotSystemsGroup)
+
 >  A. Bratta, R. Orsolino, M. Focchi, V. Barasuol, G. G. Muscolo and C. Semini, [On the Hardware Feasibility of Nonlinear Trajectory Optimization for Legged Locomotion based on a Simplified Dynamics](https://arxiv.org/abs/1910.06855),
 : IEEE International Conference on Robotics and Automation (ICRA), 2020
 
