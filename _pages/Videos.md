@@ -6,9 +6,17 @@ classes: wide
 ---
 
 
--  ***Rapid Stability Margin Estimation for Contact-Rich Locomotion***: IROS 2021<br/>
+-  ***Rapid Stability Margin Estimation for Contact-Rich Locomotion***: R. Orsolino, O. Melon, S. Gangapurwala, M. Geisert, I. Havoutis and M. Fallon, IROS, 2021<br/>
 <a href="https://www.youtube.com/watch?v=cg2Tme0t4QA
 " target="_blank"><img src="https://i.ytimg.com/vi/cg2Tme0t4QA/maxresdefault.jpg"
 alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
--   ***Video***: Welding simulation using ABB RobotStudio<br/>
-[![Watch the video](https://i.ytimg.com/vi/cg2Tme0t4QA/maxresdefault.jpg)](https://www.youtube.com/watch?v=cg2Tme0t4QA)
+
+-  ***RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control***: S. Gangapurwala, M. Geisert, R. Orsolino, I. Havoutis and M. Fallon, TRO, 2022<br/>
+<a href="https://www.youtube.com/watch?v=GTI-0gl6Hg0
+" target="_blank"><img src="https://i.ytimg.com/vi/GTI-0gl6Hg0/maxresdefault.jpg"
+alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
+
+-  ***Receding-horizon perceptive trajectory optimization for dynamic legged locomotion with learned initialization***: O. Melon, R. Orsolino, D. Surovik, M. Geisert, I. Havoutis and M. Fallon, ICRA, 2022<br/>
+<a href="https://www.youtube.com/watch?v=bfc_TOU3AeA
+" target="_blank"><img src="https://i.ytimg.com/vi/bfc_TOU3AeA/maxresdefault.jpg"
+alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
