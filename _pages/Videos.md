@@ -20,3 +20,9 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=bfc_TOU3AeA
 " target="_blank"><img src="https://i.ytimg.com/vi/bfc_TOU3AeA/maxresdefault.jpg"
 alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
+
+
+-  ***HyQReal robot release: Walking robot pulls a plane (extended version)***: 2019<br/>
+<a href="https://www.youtube.com/watch?v=pLsNs1ZS_TI&ab_channel=DynamicLeggedSystemslab
+" target="_blank"><img src="https://i.ytimg.com/vi/pLsNs1ZS_TI/maxresdefault.jpg"
+alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
