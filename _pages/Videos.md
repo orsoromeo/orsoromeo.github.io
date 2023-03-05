@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Videos"
 permalink: /Videos/
 header:
 classes: wide
