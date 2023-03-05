@@ -6,8 +6,8 @@ classes: wide
 ---
 
 
->  **[CAROLOGISTICS](https://www.carologistics.org/), Aachen, Germany** 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Q2uncjoH79M
+-  ***Rapid Stability Margin Estimation for Contact-Rich Locomotion***: IROS 2021<br/>
+<a href="https://www.youtube.com/watch?v=cg2Tme0t4QA&t=689s&ab_channel=romeoorsolino
 " target="_blank"><img src="http://img.youtube.com/vi/Q2uncjoH79M/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 -   ***Video***: Welding simulation using ABB RobotStudio<br/>
