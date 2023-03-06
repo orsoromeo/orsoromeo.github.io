@@ -8,7 +8,9 @@ mathjax: "true"
 ---
 
 ## Edge-detection using the elevation map
-
+<a href="https://youtu.be/YYs4lJ9t-Xo
+" target="_blank"><img src="https://i.ytimg.com/vi/YYs4lJ9t-Xo/maxresdefault.jpg"
+alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 >  This repository performs segmentation of convex patches and detection of edges based on the input elevation map: [https://github.com/ori-drs/plane_seg](https://github.com/ori-drs/plane_seg)
 
 ## Jet-Leg
