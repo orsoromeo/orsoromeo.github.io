@@ -10,6 +10,8 @@ main:
      url: /Videos/
    - title: "Code"
      url: /Code/
+   - title: "Blog"
+     url: /Blog/
    - title: "CV"
      url: /CV/
 
