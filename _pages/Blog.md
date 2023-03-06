@@ -9,7 +9,7 @@ mathjax: "true"
 
 ## Podcasts
 
->  X-OR podcast from 2022, with Gor Nersisyan: [https://youtu.be/9Zyo44Zh5A4](https://youtu.be/9Zyo44Zh5A4)
+>  X-OR podcast from 2022, with Dr. Mathieu Geisert and hosted by Gor Nersisyan: [https://youtu.be/9Zyo44Zh5A4](https://youtu.be/9Zyo44Zh5A4)
 
 >  Robot Talk UKRI podcast from 2021, interviewed by Dr Claire Asher about robot locomotion in the academia: [https://ukrobotics.libsyn.com/episode-3-robot-locomotion-getting-moving](https://ukrobotics.libsyn.com/episode-3-robot-locomotion-getting-moving)
 
