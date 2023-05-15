@@ -12,13 +12,10 @@ mathjax: "true"
 >  R. Orsolino, [Actuation Aware Simplified Dynamic Models for Robotic Legged Locomotion](https://github.com/orsoromeo/orsoromeo.github.io/blob/master/assets/pdfs/PhdThesisOrsolino.pdf),
 : PhD dissertation, Istituto Italiano di Tecnologia (IIT), Genova, Italy, 2019
 
-## Under Review
-
->  A. Abdalla, M. Focchi, R. Orsolino and C. Semini, [An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion](https://arxiv.org/pdf/2011.07967.pdf),
-arXiv, 2020
-
-
 ## Journal Papers
+
+>  A. Abdalla, M. Focchi, R. Orsolino and C. Semini, [An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion](https://arxiv.org/pdf/2011.07967.pdf), 
+: IEEE Transactions on Robotics (TRO), 2023
 
 >  S. Gangapurwala, M. Geisert, R. Orsolino, I. Havoutis and M. Fallon, [RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control](https://arxiv.org/abs/2012.03094),
 : IEEE Transactions on Robotics (TRO), 2022
