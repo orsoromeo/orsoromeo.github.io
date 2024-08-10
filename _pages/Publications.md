@@ -67,6 +67,9 @@ mathjax: "true"
 
 ## Abstracts
 
+>  R. Orsolino, et al., Human-inspired Grasping Strategies of Fresh Fruits and Vegetables Applied to Robotic Manipulation,
+: 40th anniversary of the IEEE ICRA Conference (ICRA@40), 2024
+
 >  A. Abdalla, M. Focchi, R. Orsolino and C. Semini, The Reachable Region: a Fast Kinematic Feasibility Criterion for Legged Locomotion, 
 : Istituto di Robotica e Macchine Intelligenti (I-RIM), 2020
 
