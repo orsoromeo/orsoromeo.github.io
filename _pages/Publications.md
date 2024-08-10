@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /Publications/
-tags: [robotics, legged locomotion, numerical optimization, optimal control]
+tags: [robotics, legged locomotion, mathematical optimization, optimal control, manipulation, grasping, reinforcement learning]
 header:
 classes: wide
 mathjax: "true"
