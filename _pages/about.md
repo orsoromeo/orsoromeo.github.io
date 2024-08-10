@@ -12,7 +12,7 @@ My research interests focused on motion planning, optimal control, online/real-t
 
 In December 2020 I decided to move to the industry I have joined [Arrival Ltd](https://arrival.com/uk/en) as a Robotics Research Engineer, where I worked on R&D projects included within the concept of microfactory and on the automation of EV-production.
 
-Since September 2023 I have moved on to Ocado Technology, where I am currently working as a Robotics Research Engineer on three different Horizon Europe (HE) projects related to manipulation and grasping of soft and deformable objects. Here are more details:
+Since September 2023 I have moved on to [Ocado Technology](https://www.ocadogroup.com/), where I am currently working as a Robotics Research Engineer on three different Horizon Europe (HE) projects related to manipulation and grasping of soft and deformable objects. Here are more details:
 - [IntelliMan](https://intelliman-project.eu/)
 - [SoftEnable](https://softenable.eu/)
 - [SestoSenso](http://sestosenso.eu/)
