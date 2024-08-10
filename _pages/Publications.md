@@ -35,6 +35,9 @@ mathjax: "true"
 
 ## Conference Papers
 
+>  R. Orsolino, et al., Human-inspired Grasping Strategies of Fresh Fruits and Vegetables Applied to Robotic Manipulation,
+: IEEE/ASME International Conference on Mechatronic, Embedded Systems and Applications (MESA), 2024
+
 >  R. Orsolino, O. Melon, S. Gangapurwala, M. Geisert, I. Havoutis and M. Fallon, [Rapid stability margin estimation for contact-rich locomotion](https://ora.ox.ac.uk/objects/uuid:c70fd912-db6c-445b-ba45-9674415bcaea/download_file?safe_filename=Orsolino_et_al_2021_rapid_stability_margin.pdf&file_format=pdf&type_of_work=Conference+item),
 : IEEE International Conference on Intelligent Robots and Systems (IROS), 2021
 : [Presentation video (long)](https://www.youtube.com/watch?v=cg2Tme0t4QA), [Short video](https://www.youtube.com/watch?v=E2cUo1-F9Xw)
