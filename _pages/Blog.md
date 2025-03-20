@@ -19,4 +19,7 @@ mathjax: "true"
 
 >  QUAD (Oxford alumni) article from 2022 by Richard Lofthouse on the role of robotics in the industry: [https://www.alumni.ox.ac.uk/article/the-role-of-robotics](https://www.alumni.ox.ac.uk/article/the-role-of-robotics)
 
+## Workshops
+
+> In 2019 I co-organized a scientific workshop at RSS, Freiburg, on [Numerical Optimization for Multi-contact Motion Planning](https://sites.google.com/view/num-opt-for-legged-locomotion/). The full-day video recording can be accessed [here](https://www.youtube.com/watch?v=Z8VLUSMM6e8).
 
