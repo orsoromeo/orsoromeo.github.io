@@ -10,7 +10,7 @@ mathjax: "true"
 ## PhD dissertation
 
 >  R. Orsolino, [Actuation Aware Simplified Dynamic Models for Robotic Legged Locomotion](https://github.com/orsoromeo/orsoromeo.github.io/blob/master/assets/pdfs/PhdThesisOrsolino.pdf),
-: PhD dissertation, Istituto Italiano di Tecnologia (IIT), Genova, Italy, 2019
+: PhD theses, Istituto Italiano di Tecnologia (IIT), Genova, Italy, 2019
 
 ## Journal Papers
 
