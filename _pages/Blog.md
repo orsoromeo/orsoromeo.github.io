@@ -21,5 +21,5 @@ mathjax: "true"
 
 ## Workshops
 
-> In 2019 I co-organized a scientific workshop at RSS, Freiburg, on [Numerical Optimization for Multi-contact Motion Planning](https://sites.google.com/view/num-opt-for-legged-locomotion/). The full-day video recording can be accessed [here](https://www.youtube.com/watch?v=Z8VLUSMM6e8).
+> I co-organized a scientific workshop at Robotics Science and Systems (RSS) 2019, Freiburg, on [Numerical Optimization for Multi-contact Motion Planning](https://sites.google.com/view/num-opt-for-legged-locomotion/) for humanoid and quadruped robots. The full-day video recording can be accessed [here](https://www.youtube.com/watch?v=Z8VLUSMM6e8).
 
