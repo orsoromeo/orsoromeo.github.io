@@ -67,6 +67,9 @@ mathjax: "true"
 
 ## Abstracts
 
+>  S. McCrory, R. Orsolino, D. Thanki, L. Penco, R. Griffin, [Posture Optimization for Humanoid Multi-Contact Teleoperation](https://baymax.org/workshop/2024/#anchor_yamane),
+: workshop at IEEE-RAS International Conference on Humanoid Robots, Can we build Baymax?, 2024
+
 >  R. Orsolino, et al., [Human-inspired Grasping Strategies of Fresh Fruits and Vegetables Applied to Robotic Manipulation](https://ieeexplore.ieee.org/document/10704863),
 : 40th anniversary of the IEEE ICRA Conference (ICRA@40), 2024
 
