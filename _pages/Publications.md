@@ -37,8 +37,7 @@ mathjax: "true"
 
 ## Conference Papers
 
->  S. McCrory, et al., Stability-Aware Retargeting for Humanoid Multi-Contact
-      Teleoperation,
+>  S. McCrory, et al., Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation,
 : Under review for Humanoids, 2025
 
 >  R. Orsolino, et al., [Human-inspired Grasping Strategies of Fresh Fruits and Vegetables Applied to Robotic Manipulation](https://arxiv.org/pdf/2410.22893),
