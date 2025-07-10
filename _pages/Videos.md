@@ -29,5 +29,5 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 -  ***HyQ (Hydraulic Quadruped) robot traverses ramps of different angles using an actuation-aware motion planning strategy based on my PhD thesis***: 2018<br/>
 <a href="https://www.youtube.com/watch?v=vUx5b5kfRfE&t=14s&ab_channel=DynamicLeggedSystemslab
-" target="_blank"><img src="https://i.ytimg.com/vi/pLsNs1ZS_TI/maxresdefault.jpg"
+" target="_blank"><img src="https://github.com/orsoromeo/jet-leg/blob/master/figs/feasible_region.png"
 alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
