@@ -26,14 +26,20 @@ mathjax: "true"
 
 >  R. Orsolino, M. Focchi, S. Caron, G. Raiola, V. Barasuol and C. Semini, [Feasible Region: an Actuation-Aware Extension of the Support Region](https://ieeexplore.ieee.org/document/9116813),
 : IEEE Transactions on Robotics (TRO), 2020
+: [Video](https://www.youtube.com/watch?v=9pvWO2Qmo9k&t=12s&ab_channel=DynamicLeggedSystemslab)
 
 >  M. Focchi, R. Orsolino, M. Camurri, V. Barasuol, C. Mastalli, D.G. Caldwell and C. Semini, [Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality](https://arxiv.org/abs/1805.10238),
 : Springer Tracts on Advanced Robotics (STAR), 2019
 
 >  R. Orsolino, M. Focchi, C. Mastalli, H. Dai, D.G. Caldwell and C. Semini, [Application of Wrench-Based Feasibility Analysis to the Online Trajectory Optimization of Legged Robots](https://iit-dlslab.github.io/papers/orsolino18ral.pdf),
 : IEEE Robotics and Automation Letters (RA-L), 2018
+: [Video](https://www.youtube.com/watch?v=vUx5b5kfRfE&t=14s&ab_channel=DynamicLeggedSystemslab)
 
 ## Conference Papers
+
+>  S. McCrory, et al., Stability-Aware Retargeting for Humanoid Multi-Contact
+      Teleoperation,
+: Under review for Humanoids, 2025
 
 >  R. Orsolino, et al., [Human-inspired Grasping Strategies of Fresh Fruits and Vegetables Applied to Robotic Manipulation](https://arxiv.org/pdf/2410.22893),
 : IEEE/ASME International Conference on Mechatronic, Embedded Systems and Applications (MESA), 2024
