@@ -14,6 +14,9 @@ mathjax: "true"
 
 ## Journal Papers
 
+>  S. McCrory, et al., Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation,
+: IEEE Robotics and Automation Letters (RA-L), 2025
+
 >  A. Abdalla, M. Focchi, R. Orsolino and C. Semini, [An Efficient Paradigm for Feasibility Guarantees in Legged Locomotion](https://arxiv.org/pdf/2011.07967.pdf), 
 : IEEE Transactions on Robotics (TRO), 2023
 
@@ -36,9 +39,6 @@ mathjax: "true"
 : [Video](https://www.youtube.com/watch?v=vUx5b5kfRfE&t=14s&ab_channel=DynamicLeggedSystemslab)
 
 ## Conference Papers
-
->  S. McCrory, et al., Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation,
-: Under review for Humanoids, 2025
 
 >  R. Orsolino, et al., [Human-inspired Grasping Strategies of Fresh Fruits and Vegetables Applied to Robotic Manipulation](https://arxiv.org/pdf/2410.22893),
 : IEEE/ASME International Conference on Mechatronic, Embedded Systems and Applications (MESA), 2024
