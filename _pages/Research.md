@@ -7,6 +7,11 @@ classes: wide
 mathjax: "true"
 ---
 
+## Teleperation and Posture Optimization for Humanoid Robots
+
+>  S. McCrory, et al., Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation,
+: IEEE Robotics and Automation Letters (RA-L), 2025
+
 ## Deep Reinforcement Learning (DRL) and Deep Learning
 
 >  R. Orsolino, O. Melon, S. Gangapurwala, M. Geisert, I. Havoutis and M. Fallon, [Rapid stability margin estimation for contact-rich locomotion](https://ora.ox.ac.uk/objects/uuid:c70fd912-db6c-445b-ba45-9674415bcaea/download_file?safe_filename=Orsolino_et_al_2021_rapid_stability_margin.pdf&file_format=pdf&type_of_work=Conference+item),
